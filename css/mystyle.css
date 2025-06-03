@@ -1,0 +1,27 @@
+
+.backtotop {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.backtotop a {
+  display: inline-block;
+  padding: 15px 30px;
+  background: pink;
+  color: #333;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  transition:0.3s, color 0.3s;
+}
+
+.backtotop a:hover {
+  background: deeppink;
+  color: #fff;
+}
+nav {
+    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fblack-product-background&psig=AOvVaw2OkWa3QqJ-ZAiqwpjHKdPd&ust=1748997551638000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjRwuCB1I0DFQAAAAAdAAAAABBD);
+    padding-left
+    padding-top 
+}
