@@ -23,9 +23,16 @@
 
 section {
     background-color: transparent;
-    background-image: url(/assets/img/winter-de-aespa-girls-2nd-mini-album-10331.webp);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
   }
   
+body {
+    background: fixed url(/assets/img/winter_aespa_hot_mess_album-wallpaper-3840x1080.jpg);
+    
+    background-position:top center;
+    background-repeat: no-repeat;
+}
+
+nav{
+    background-image: url(/assets/img/43136636f16bf94193ea96b6a9a8d25b.jpg);
+    background-repeat: repeat;
+}
